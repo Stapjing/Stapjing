@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stapjing
 - 👀 I’m interested in web develop
 - 🌱 I’m currently learning javascript, golang ..
-- 📫 How to reach me stayhpjing@gmail.com
+- 📫 How to reach me mail:stayhpjing@gmail.com
 
 <!---
 Stapjing/Stapjing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
